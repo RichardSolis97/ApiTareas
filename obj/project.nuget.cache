@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "O7GcnyYa49BilOfc4AHFAqMeeC/dMvkJ8GpH1qriFoNq0G3pFxqusCg8f5TEx7oQ1pByTL+Uxu79OmNSHRRogA==",
+  "success": true,
+  "projectFilePath": "G:\\API\\API_Atareas\\API_Atareas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RICHARD\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.30\\microsoft.aspnetcore.jsonpatch.3.1.30.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.30\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.30.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\RICHARD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

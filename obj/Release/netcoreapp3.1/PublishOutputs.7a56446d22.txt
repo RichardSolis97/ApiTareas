@@ -1,0 +1,16 @@
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\API_Atareas.exe
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\API_Atareas.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\API_Atareas.deps.json
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\API_Atareas.runtimeconfig.json
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\API_Atareas.pdb
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Npgsql.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+G:\API\API_Atareas\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
